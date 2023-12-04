@@ -1,1 +1,1 @@
-# Multi page website laboratory
+# Multi-Page Website Laboratory
