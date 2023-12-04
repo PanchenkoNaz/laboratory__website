@@ -2,7 +2,6 @@
 Is a fully responsive laboratory website,
 Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-
 ### Screeshots
 ![laboratory__website](laptopp.png)
 
