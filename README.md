@@ -5,6 +5,6 @@ Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 ### Screeshots
 
-![Richard Ryan Desktop Demo](.laptopp.png)
+(./laptopp.png)
 
 Can you view [my project](https://panchenkonaz.github.io/laboratory__website/)
